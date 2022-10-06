@@ -1,5 +1,3 @@
-# HDRUK Doctoral Research Projects 
-
 This website provides information about [Health Data Research UK PhD Programme](https://www.hdruk.ac.uk/careers-in-health-data-science/further-education/phd-programme/) (HDRUK) Research Projects. Project summaries were reviewed and examined by a Public-Patient Advisory group. Changes to research summaries as a result of assessment are indicated for each student.
 
 ## Project Summaries
