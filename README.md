@@ -5,7 +5,7 @@ This website provides information about [Health Data Research UK PhD Programme](
 ## Project Summaries
 
 | Student | Project |
-| ------- | ------- |
+| :------ | :------ |
 | Jose Benitez-Aurioles | [Causal Inference for Fairer Clinical Prediction Models](summaries/aurioles.md)
 | Louis Chislett | [Building and updating robust clinical risk prediction models – Characterising and counteracting model drift](summaries/chislett.md)
 | Natalia Hong | [Predictive Models for Individuals with Multiple Long Term Conditions](summaries/hong.md)  |
